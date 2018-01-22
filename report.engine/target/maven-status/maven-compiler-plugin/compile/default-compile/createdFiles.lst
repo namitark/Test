@@ -1,0 +1,14 @@
+org\jpmc\forex\trade\util\DateConverter.class
+org\jpmc\forex\trade\util\ReportReader.class
+org\jpmc\forex\trade\services\impl\SettlementServiceImpl.class
+org\jpmc\forex\trade\model\Instruction.class
+org\jpmc\forex\trade\enums\TradeOperationEnum.class
+org\jpmc\forex\trade\services\SettlementService.class
+org\jpmc\forex\trade\constants\TradeConstants.class
+org\jpmc\forex\trade\validators\InstructionValidator.class
+org\jpmc\forex\trade\services\RankingService.class
+org\jpmc\forex\trade\calendars\BaseCalendar.class
+org\jpmc\forex\trade\calendars\MonToFridayCalendar.class
+org\jpmc\forex\trade\services\impl\RankingServiceImpl.class
+org\jpmc\forex\trade\calendars\SunToThursCalendar.class
+org\jpmc\forex\trade\generator\GenerateDailyReport.class

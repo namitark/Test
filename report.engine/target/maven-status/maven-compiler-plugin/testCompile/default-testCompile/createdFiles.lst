@@ -1,0 +1,7 @@
+org\jpmc\forex\trade\services\RankingServiceTest.class
+org\jpmc\forex\trade\services\SettlementServiceTest.class
+org\jpmc\forex\trade\util\DateStringConverterTest.class
+org\jpmc\forex\trade\calendars\SunToThursCalendarTest.class
+org\jpmc\forex\trade\validators\InstructionValidatorTest.class
+org\jpmc\forex\trade\calendars\MonToFridayCalendarTest.class
+org\jpmc\forex\trade\util\ReportReaderTest.class
